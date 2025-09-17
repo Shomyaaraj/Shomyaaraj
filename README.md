@@ -3,15 +3,15 @@
 ## About Me
 - 🎓 I am a B.Tech CSE student at Vignan University, Andhra Pradesh.  
 - 💻 I enjoy writing blogs, watching movies, and building software.  
-- 🚀 My goal is to become financially independent by doing freelance work, and ultimately grow into a software engineer.
+- 🚀 My goal is to grow into a skilled software engineer and contribute to impactful projects.
 
 ## What I’m Working On
 Here are some of my current projects:
-- **Swiggy** – A project (HTML) exploring Swiggy’s UI, practice in layouts and responsiveness. :contentReference[oaicite:0]{index=0}  
-- **Restaurant Responsive Page** – A CSS/HTML project focusing on responsive design. :contentReference[oaicite:1]{index=1}  
-- **SANAM** – A Java project. :contentReference[oaicite:2]{index=2}  
-- **EXAM_COUNTDOWN** – A CSS project. :contentReference[oaicite:3]{index=3}  
-- **exam1** – Another HTML project. :contentReference[oaicite:4]{index=4}  
+- **Swiggy** – A project (HTML) exploring Swiggy’s UI, practice in layouts and responsiveness. ([github.com](https://github.com/Shomyaaraj))  
+- **Restaurant Responsive Page** – A CSS/HTML project focusing on responsive design. ([github.com](https://github.com/Shomyaaraj))  
+- **SANAM** – A Java project. ([github.com](https://github.com/Shomyaaraj))  
+- **EXAM_COUNTDOWN** – A CSS project. ([github.com](https://github.com/Shomyaaraj))  
+- **exam1** – Another HTML project. ([github.com](https://github.com/Shomyaaraj))  
 
 ## Skills
 - Front-end: HTML, CSS  
@@ -20,9 +20,9 @@ Here are some of my current projects:
 - Time management & learning new technologies
 
 ## What I’m Looking Forward To
-- Taking on freelance web development / UI projects.  
 - Building full-stack web apps to strengthen my backend skills.  
-- Collaborating with other devs to learn best practices.  
+- Collaborating with other developers to learn best practices.  
+- Exploring open-source contributions to grow my knowledge and experience.  
 
 ## Get in Touch
 - ✉️ Blog / Writing: *[Your blog link if you have one]*  
