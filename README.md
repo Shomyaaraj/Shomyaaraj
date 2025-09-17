@@ -9,9 +9,9 @@
 Here are some of my current projects:
 - **Swiggy** – A project (HTML) exploring Swiggy’s UI, practice in layouts and responsiveness. ([github.com](https://github.com/Shomyaaraj))  
 - **Restaurant Responsive Page** – A CSS/HTML project focusing on responsive design. ([github.com](https://github.com/Shomyaaraj))  
-- **SANAM** – A Java project. ([github.com](https://github.com/Shomyaaraj))  
+- **Drone Delivery** – A project demonstrating the concept of drone-based product delivery. ([github.com](https://github.com/Shomyaaraj))  
 - **EXAM_COUNTDOWN** – A CSS project. ([github.com](https://github.com/Shomyaaraj))  
-- **exam1** – Another HTML project. ([github.com](https://github.com/Shomyaaraj))  
+- **Interior Designers** – A responsive web project for interior design services. ([github.com](https://github.com/Shomyaaraj))  
 
 ## Skills
 - Front-end: HTML, CSS  
