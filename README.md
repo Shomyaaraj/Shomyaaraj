@@ -25,6 +25,6 @@ Here are some of my current projects:
 - Exploring open-source contributions to grow my knowledge and experience.  
 
 ## Get in Touch
-- ✉️ Blog / Writing: *[Your blog link if you have one]*  
+- ✉️ Blog / Writing: *[Little bit unprofessional   so--------unable to show]*  
 - 🌐 GitHub: [github.com/Shomyaaraj](https://github.com/Shomyaaraj)  
 - ☎️ [Your email or preferred contact]  
