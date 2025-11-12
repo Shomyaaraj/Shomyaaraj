@@ -27,4 +27,4 @@ Here are some of my current projects:
 ## Get in Touch
 - ✉️ Blog / Writing: *[Little bit unprofessional   so--------unable to show]*  
 - 🌐 GitHub: [github.com/Shomyaaraj](https://github.com/Shomyaaraj)  
-- ☎️ [Your email or preferred contact]  
+- ☎️ shomya725@gamil.com
