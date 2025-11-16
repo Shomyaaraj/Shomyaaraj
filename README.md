@@ -10,7 +10,7 @@ Here are some of my current projects:
 - **Swiggy** – A project (HTML) exploring Swiggy’s UI, practice in layouts and responsiveness. ([Deployed Site](https://shomswiggy.netlify.app/))  
 - **Restaurant Responsive Page** – A CSS/HTML project focusing on responsive design. ([Deployed Site](https://resturantshom.netlify.app/))  
 - **Drone Delivery** – A project demonstrating the concept of drone-based product delivery. ([Deployed Site](https://shomdronedelivery.netlify.app))  
-- **EXAM_COUNTDOWN** – A CSS project. ([github.com](https://github.com/Shomyaaraj))  
+- **NEW_CMS** – A AJP project on STRUTS with h2 databse and maven. ([github.com](https://github.com/Shomyaaraj))  
 - **Interior Designers** – A responsive web project for interior design services. ([Deployed Site](https://dreamscapedesignerss.netlify.app/))  
 
 ## Skills
