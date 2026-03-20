@@ -2,29 +2,46 @@
 
 ## About Me
 - 🎓 I am a B.Tech CSE student at Vignan University, Andhra Pradesh.  
-- 💻 I enjoy writing blogs, watching movies, and building software.  
-- 🚀 My goal is to grow into a skilled software engineer and contribute to impactful projects.
+- 💻 I enjoy building software, writing blogs, and exploring new technologies.  
+- 🚀 My goal is to grow into a skilled software engineer and contribute to impactful, real-world projects.  
+- 🌍 I believe in adapting to a VUCA world (Volatility, Uncertainty, Complexity, Ambiguity) by continuously learning, solving problems, and improving my technical and analytical skills.  
+
+---
 
 ## What I’m Working On
-Here are some of my current projects:
-- **Swiggy** – A project (HTML) exploring Swiggy’s UI, practice in layouts and responsiveness. ([Deployed Site](https://shomswiggy.netlify.app/))  
-- **Restaurant Responsive Page** – A CSS/HTML project focusing on responsive design. ([Deployed Site](https://resturantshom.netlify.app/))  
-- **Drone Delivery** – A project demonstrating the concept of drone-based product delivery. ([Deployed Site](https://shomdronedelivery.netlify.app))  
-- **NEW_CMS** – A AJP project on STRUTS with h2 databse and maven. ([github.com](https://github.com/Shomyaaraj))  
-- **Interior Designers** – A responsive web project for interior design services. ([Deployed Site](https://dreamscapedesignerss.netlify.app/))  
+Here are some of my key projects:
+
+- **Course Allocation System** – A full-stack system using React and Firebase for allocating courses based on student preferences and constraints.  
+  🔗 [Live](https://course-allocator-22sv.vercel.app/) | [GitHub](https://github.com/Shomyaaraj/CourseAllocator)
+
+- **CMS Portal (News Content Management System)** – Built using Java, Struts2, JSP, Maven, PostgreSQL, and Docker with role-based access control.  
+  🔗 [Live](https://new-cms-ep45.onrender.com) | [GitHub](https://github.com/Shomyaaraj)
+
+- **Interior Designers Website** – A responsive frontend project showcasing design services with animations and UI components.  
+  🔗 [Live](https://dreamscapedesignerss.netlify.app/)
+
+- **Restaurant Responsive Page** – A project focused on responsive layouts using HTML and CSS.  
+  🔗 [Live](https://resturantshom.netlify.app/)
+
+---
 
 ## Skills
-- Front-end: HTML, CSS  
-- Basic Java  
-- Blog writing, content creation  
-- Time management & learning new technologies
+- 💻 **Programming Languages:** C, Java, Python (Basic)  
+- 🌐 **Web Development:** HTML, CSS, JavaScript, React.js  
+- ⚙️ **Technologies & Tools:** Firebase, Docker, Git, GitHub, Maven  
+- 🧠 **Core Concepts:** Data Structures & Algorithms, OOP, Problem Solving  
+- ✍️ **Other Skills:** Blog Writing, Time Management, Continuous Learning  
+
+---
 
 ## What I’m Looking Forward To
-- Building full-stack web apps to strengthen my backend skills.  
-- Collaborating with other developers to learn best practices.  
-- Exploring open-source contributions to grow my knowledge and experience.  
+- Building scalable full-stack applications to strengthen backend skills  
+- Contributing to open-source projects and collaborative development  
+- Learning system design and real-world software engineering practices  
+- Adapting to challenges in a dynamic (VUCA) environment through continuous improvement  
+
+---
 
 ## Get in Touch
-- ✉️ Blog / Writing: *[Little bit unprofessional   so--------unable to show]*  
 - 🌐 GitHub: [github.com/Shomyaaraj](https://github.com/Shomyaaraj)  
-- ☎️ shomya725@gamil.com
+- ✉️ Email: shomya725@gmail.com  
