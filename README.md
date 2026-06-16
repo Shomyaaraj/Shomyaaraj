@@ -4,8 +4,6 @@
 - 🎓 I am a B.Tech CSE student at Vignan University, Andhra Pradesh.  
 - 💻 I enjoy building software, writing blogs, and exploring new technologies.  
 - 🚀 My goal is to grow into a skilled software engineer and contribute to impactful, real-world projects.  
-- 🌍 I believe in adapting to a VUCA world (Volatility, Uncertainty, Complexity, Ambiguity) by continuously learning, solving problems, and improving my technical and analytical skills.  
-
 ---
 
 ## What I’m Working On
